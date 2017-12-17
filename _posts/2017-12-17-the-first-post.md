@@ -3,6 +3,7 @@ layout: post
 title: "The First Post"
 commit: true
 sidebar_link: true
+excerpt_separator:  <!--more-->
 ---
 
 깃블로그다 깃블로그!!
