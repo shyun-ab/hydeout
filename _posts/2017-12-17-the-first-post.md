@@ -2,6 +2,7 @@
 layout: post
 title: "The First Post"
 commit: true
+sidebar_link: true
 ---
 
 깃블로그다 깃블로그!!
