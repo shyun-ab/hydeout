@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hash(Brown)
-tagline:          'shyun-ab's blog'
+title:            Hash-Brown
+tagline:          'shyun-ab'
 description:      'Computer Science & Engineering, Konkuk Univ.'
 url:              https://shyun-ab.github.io
 baseurl:          # the optional subpath of your site, e.g. "/blog"
