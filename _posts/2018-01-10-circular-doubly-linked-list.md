@@ -24,8 +24,8 @@ excerpt_separator:  <!--more-->
 
 ```c
 int GetNodeCount(Node* Head) {
-	unsigned int	Count	= 0;
-	Node*			Current = Head;
+	unsigned int    Count   = 0;
+	Node*           Current = Head;
 
 	while (Current != NULL) {
 		Current = Current->NextNode;
