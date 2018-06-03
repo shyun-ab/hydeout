@@ -12,9 +12,7 @@ excerpt_separator:  <!--more-->
 - 진행 기간: 2018.03.12 ~ 2018.06.11 (3개월)
 <br><br>
 
-- - -
-
-### CTIP 환경
+## CTIP 환경
 - 사용 언어 : **Java** (jdk 9)
 - 개발 도구 : **Eclipse Oxygen**
 - 유닛 테스트 : **JUnit 4**
@@ -55,9 +53,7 @@ maven 보다 빌드 설정하기도 쉽고, gradle에서 쓰는 언어인 groovy
 내가 지식이 거의 없는 상태에서 시작해서 좀 헤매긴 했지만, 그렇기 때문에 얻어가는 것이 매우 많은 수업이었던 것 같다. 빌드 자동화라던지 프로젝트를 위한 여러 도구들을 써볼 기회가 없었는데 이 수업을 통해서 경험해봐서 좋았다. 지식이 없어서 어렵긴 했어도, 그 모르는 것들을 열심히 찾아서 혼자 해결하는 과정도 굉장히 뿌듯했다! 맨 마지막에 모든 세팅이 끝나고, 자동화가 완벽하게 돌아가면서 의도한 report들도 다 나올 때 새벽에 혼자 박수치기도 했다.
 <br><br>
 
-- - -
-
-### System Testing & Static Analysis
+## System Testing & Static Analysis
 - [1st System Test Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/4/T5_System_Test_Report.pdf)
 - [2nd System Test Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/5/T5_System_Test_Report.pdf)
 - [Static Analysis Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/5/T5_Static_Analysis_Report.pdf)
