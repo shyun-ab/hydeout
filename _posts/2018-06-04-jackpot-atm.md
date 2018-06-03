@@ -14,8 +14,7 @@ excerpt_separator:  <!--more-->
 
 - - -
 
-<br>
-###CTIP 환경
+### CTIP 환경
 - 사용 언어 : **Java** (jdk 9)
 - 개발 도구 : **Eclipse Oxygen**
 - 유닛 테스트 : **JUnit 4**
@@ -58,8 +57,7 @@ maven 보다 빌드 설정하기도 쉽고, gradle에서 쓰는 언어인 groovy
 
 - - -
 
-<br>
-###System Testing & Static Analysis
+### System Testing & Static Analysis
 - [1st System Test Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/4/T5_System_Test_Report.pdf)
 - [2nd System Test Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/5/T5_System_Test_Report.pdf)
 - [Static Analysis Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/5/T5_Static_Analysis_Report.pdf)
