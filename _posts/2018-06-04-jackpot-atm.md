@@ -10,8 +10,9 @@ excerpt_separator:  <!--more-->
 - 개요: 소프트웨어 검증 수업에서 진행한 팀 프로젝트
 - 목적: CTIP 환경 구축 및 정적 분석, 시스템 테스팅
 - 진행 기간: 2018.03.12 ~ 2018.06.11 (3개월)
-<br>
-##CTIP 환경
+<br><br>
+---
+###CTIP 환경
 - 사용 언어 : **Java** (jdk 9)
 - 개발 도구 : **Eclipse Oxygen**
 - 유닛 테스트 : **JUnit 4**
@@ -23,17 +24,18 @@ excerpt_separator:  <!--more-->
 - 시스템 테스트 : **TestLink**
 - 정적 분석 : **Code Inspector**, **SonarQube**, **FindBugs**, **Pmd**
 - Cloud Server : **AWS EC2**, Azure, **Naver Cloud Platform**
-<br>
-![Jenkins](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/Jenkins.JPG?raw=true)
+<br><br>
 Jenkins<br>
-![Trello](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/Trello.JPG?raw=true)
+![Jenkins](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/Jenkins.JPG?raw=true)
 Trello<br>
-![Redmine](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/Redmine-issue.JPG?raw=true)
+![Trello](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/Trello.JPG?raw=true)
 Redmine<br>
-![TestLink](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/TestLink-bugs.JPG?raw=true)
+![Redmine](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/Redmine-issue.JPG?raw=true)
 TestLink<br>
-![SonarQube](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/SonarQube.JPG?raw=true)
+![TestLink](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/TestLink-bugs.JPG?raw=true)
 SonarQube<br>
+![SonarQube](https://github.com/shyun-ab/shyun-ab.github.io/blob/master/_screenshots/SonarQube.JPG?raw=true)
+<br>
 <br>
 CTIP 환경 구축이 거의 프로젝트의 반..이었다고 볼 수 있는데...<br><br>
 자동화 환경이라는 건 한 번 만들면 정말 편하지만 만드는 과정이 꽤 복잡한 것 같다. 사실상 실습 수업에서는 정말 'CTIP' 자체가 무엇인지만 알려주고, ~~대충 소프트웨어 도구 모음 사이트만 던져준 후, 알아서 조사해서~~ 환경을 만들라고 했다. (....)<br>
@@ -49,10 +51,11 @@ CTIP 환경 구축이 거의 프로젝트의 반..이었다고 볼 수 있는데
 maven 보다 빌드 설정하기도 쉽고, gradle에서 쓰는 언어인 groovy도 딱히 따로 공부할 필요가 없는 것이어서 앞으로 다른 프로젝트에서도 계속 쓸 것 같다. <br>
 <br>
 내가 지식이 거의 없는 상태에서 시작해서 좀 헤매긴 했지만, 그렇기 때문에 얻어가는 것이 매우 많은 수업이었던 것 같다. 빌드 자동화라던지 프로젝트를 위한 여러 도구들을 써볼 기회가 없었는데 이 수업을 통해서 경험해봐서 좋았다. 지식이 없어서 어렵긴 했어도, 그 모르는 것들을 열심히 찾아서 혼자 해결하는 과정도 굉장히 뿌듯했다! 맨 마지막에 모든 세팅이 끝나고, 자동화가 완벽하게 돌아가면서 의도한 report들도 다 나올 때 새벽에 혼자 박수치기도 했다.
-<br>
-##System Testing & Static Analysis
+<br><br>
+---
+###System Testing & Static Analysis
 - [1st System Test Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/4/T5_System_Test_Report.pdf)
 - [2nd System Test Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/5/T5_System_Test_Report.pdf)
 - [Static Analysis Report](http://dslab.konkuk.ac.kr/Class/2018/18SV/Team%20Project/5/T5_Static_Analysis_Report.pdf)
-<br>
+<br><br>
 아 졸리당 여기까지 쓰고 이어서 써야지~
