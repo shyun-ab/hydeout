@@ -122,12 +122,14 @@ commit: true
     - Baseline testing 기법. 제일 기본 -> adaption해서 조절..해야 함
     - Test 개수 엄청 많이 나와서 도구를 사용해 줄여야 한다
     - Corner cases 코너 케이스들을 잘 포함하도록 category 나눠야 함
+
     	1. 독립적으로 테스트해야하는 피쳐 - 기본적인 특징들을 찾음(category) = 수동
     	2. category 당 value의 클래스 구분 = 수동
     		- (ex. Normal values / boundary values / special values / error values)
     		- boundary value를 주의해서 testing!
     		- erroneous condition도 여러 가지로 반영해서 testing
     	3. test case를 위한 combinations을 생성 = 도구가 자동으로 할 수도 있음 (ex. TSL)
+
     - Category = (ex. 전화를 하고 있을 때, 예약문자를 보낼 때, 통화 대기가 걸렸을 때 등)
     - Test case = (ex. 위의 상황이 모두 합쳐져서 동시에 일어날 때)
     - Parameter 3개 / Category 10개
@@ -287,8 +289,9 @@ commit: true
 <br>
 
 ## Chapter 15. Testing Object-Oriented Software
-• 이러인어린얼이리런 어려움이 있어서 안된다.
-• Object들이 자꾸 바뀌기 때문에….
+
+* 이러인어린얼이리런 어려움이 있어서 안된다.
+* Object들이 자꾸 바뀌기 때문에….
 
 <br>
 
